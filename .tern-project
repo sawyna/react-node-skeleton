@@ -1,0 +1,11 @@
+{
+    "libs": [
+        "react"
+    ],
+    "plugins": {
+        "node": {},
+        "requirejs": {
+            "baseUrl": "./"
+        }
+    }
+}
